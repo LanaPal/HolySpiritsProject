@@ -44,20 +44,16 @@ prejudice onthe basis of:
 
                                                                                                                 3
 
-        Research Questions to Answer:                                   Data Sources Used:
-•   What are the current hate crime rates in the US      •   Kaiser Family Foundation dataset, measuring
-    and is there any region where hate crime is              hate crimes to socio-economic and race factors
-    more prevalent?                                          as the main data set
-•   Is there any connection between the                  •   Estimated crimes (1979-2018) released by FBI
-    socioeconomic factors - poverty, unemployment        •   US Census Unemployment 1986-2018
-    rate, average household income, level of             •   US Census Education 2014 - 2018
-    education for the region - and hate crime            •   US Census Poverty Report
-    occurrences?                                         •   US National Geographic Breakdown of US
-                                                             Regions
-•   Do hate crimes follow the same trends as the
-    “regular crimes”? In other words, do the states
-    with the highest overall crime rate also have a
-    large “Place For Hate” crimes as well?
+        Research Questions to Answer:                                   
+•   What are the current hate crime rates in the US and is there any region where hate crime is              
+    more prevalent?                                          
+•   Is there any connection between the socioeconomic factors - poverty, unemployment        
+    rate, average household income, level of education for the region - and hate crime            
+   occurrences?                                        
+                                                             
+•   Do hate crimes follow the same trends as the “regular crimes”? In other words, do the states
+    with the highest overall crime rate also have a large “Place For Hate” crimes as well?
+                                               
                                                Approach Applied
     • Merged the hate crime data set with demographic data sets to compare the data
     • Clean and format the data for consistency (had to drop 5 states, where data was not reported: Hawaii,
@@ -67,11 +63,11 @@ prejudice onthe basis of:
                                                                                                               
 
 
-                                                                                                                        14
+                                                                                                                https://github.com/LanaPal/NoPlaceForHate/blob/master/Images/HeatMap_HateCrimes.png        
                                       
          
          
-                                       
+                                      
                                        
                                        Findings and Observations
 
@@ -95,8 +91,7 @@ prejudice onthe basis of:
 
 
 
-
-                                                                                                                                 15
+                                                                                                               
                                   What does this mean?
 Major Finding:
 • Hate crime data is smaller than we originally thought, and not in the regions we hypothesized. What
@@ -113,7 +108,7 @@ Major Finding:
 
 
                                                                                                         16
-                                             Conclusion
+                                          Conclusion
 
 First, as mentioned before, the datasets we’ve obtained are based on number of voluntary reported hate
 crimes. Per our understanding, that are the crimes that have been LABELED and REPORTED as the hate
